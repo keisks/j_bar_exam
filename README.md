@@ -33,7 +33,7 @@
 	  month = {12},
 	}
 
-### PDF
+### Paper PDF
 
 https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/559
 
