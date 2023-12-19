@@ -33,8 +33,7 @@
 	  month = {12},
 	}
 
-### Data
+### PDF
 
-in preparation
-
+https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/559
 
